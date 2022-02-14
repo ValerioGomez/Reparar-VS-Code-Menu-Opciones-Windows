@@ -16,3 +16,6 @@ Ejecutar los siguientes comandos en orden
 ```cmd
 git clone https://github.com/leifermendez/sistema-prestamos.git
 ```
+```cmd
+cd sistema-prestamos
+```
