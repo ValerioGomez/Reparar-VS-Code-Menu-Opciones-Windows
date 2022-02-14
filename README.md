@@ -1,6 +1,6 @@
-# Reparar-VS-Code-Menu-Opciones-Windows
+# Reparar VS Code Menu Opciones Windows10
 
-# Problema
+## Problema
 No Aparece la Opcion de VS Code en el menu de Windows
 
 ##Solucion
